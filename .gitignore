@@ -94,3 +94,6 @@ ENV/
 
 # pytest
 .pytest_cache
+
+# Local Claude Code guidance (not for repo)
+CLAUDE.md
